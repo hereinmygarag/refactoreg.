@@ -1,0 +1,2 @@
+# refactoreg.
+example of refactoring
